@@ -59,7 +59,3 @@ uvicorn src.main:app --reload
 }
 ```
 
----
-
-## 🛡️ License
-MIT License. Feel free to use and contribute!
